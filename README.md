@@ -6,7 +6,7 @@
 
 - My Name's **Muhammad Pandhu Prayogo** 👌
 - They called me as **Song Du-Pan** cause my face looks like korean guy 😎
-- I'm currently learning [**Code Igniter 4**](https://www.codeigniter.com/)
+- I'm currently learning [**Laravel 12**]([https://www.codeigniter.com/](https://laravel.com/))
 - I'm a **K-Pop** fans since 2022, and I'm still learning about the **Korean Languages (Hangeul)** 🤓
 
 ### Skills:
