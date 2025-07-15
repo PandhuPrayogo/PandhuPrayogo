@@ -29,8 +29,8 @@
 
 ### 📹 Featured Youtube Videos
 
-<p align="center">
-  <a href="https://youtu.be/fbRnLWiBYp0"><img src="https://img.youtube.com/vi/fbRnLWiBYp0/hqdefault.jpg" width="220" /></a>
-  <a href="https://youtu.be/qUUWif4Ed1o"><img src="https://img.youtube.com/vi/qUUWif4Ed1o/hqdefault.jpg" width="220" /></a>
-  <a href="https://youtu.be/yVjfQVmivJ0"><img src="https://img.youtube.com/vi/yVjfQVmivJ0/hqdefault.jpg" width="220" /></a>
+<p>
+  <a href="https://youtu.be/fbRnLWiBYp0"><img src="https://img.youtube.com/vi/fbRnLWiBYp0/hqdefault.jpg" width="500" /></a>
+  <a href="https://youtu.be/qUUWif4Ed1o"><img src="https://img.youtube.com/vi/qUUWif4Ed1o/hqdefault.jpg" width="500" /></a>
+  <a href="https://youtu.be/yVjfQVmivJ0"><img src="https://img.youtube.com/vi/yVjfQVmivJ0/hqdefault.jpg" width="500" /></a>
 </p>
