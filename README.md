@@ -29,14 +29,8 @@
 
 ### 📹 Featured Youtube Videos
 
-<!-- Video 1 -->
-
-[![Seluruh Alur Cerita The House of the Dead](https://img.youtube.com/vi/fbRnLWiBYp0/maxresdefault.jpg)](https://youtu.be/fbRnLWiBYp0)
-
-<!-- Video 2 -->
-
-[![ALUR CERITA ANIMAL KAISER PART #1 - LORE](https://img.youtube.com/vi/qUUWif4Ed1o/maxresdefault.jpg)](https://youtu.be/qUUWif4Ed1o)
-
-<!-- Video 3 -->
-
-[![ALUR CERITA CLOCK TOWER:THE FIRST FEAR](https://img.youtube.com/vi/yVjfQVmivJ0/maxresdefault.jpg)](https://youtu.be/yVjfQVmivJ0)
+<p align="center">
+  <a href="https://youtu.be/fbRnLWiBYp0"><img src="https://img.youtube.com/vi/fbRnLWiBYp0/hqdefault.jpg" width="220" /></a>
+  <a href="https://youtu.be/qUUWif4Ed1o"><img src="https://img.youtube.com/vi/qUUWif4Ed1o/hqdefault.jpg" width="220" /></a>
+  <a href="https://youtu.be/yVjfQVmivJ0"><img src="https://img.youtube.com/vi/yVjfQVmivJ0/hqdefault.jpg" width="220" /></a>
+</p>
